@@ -27,9 +27,9 @@ El código tiene muchísimo lugar para mejorarse y se podría terminar armando u
 La idea es tratar de llevar a una misma escala el impacto en la salud a cada contaminante para poder combinarlos y compararlos en su conjunto. 
 En este punto también cree unos indicadores para saber si en cada fecha hubo o no mediciones de cada contaminante, ya que había muchas fechas que no tenían medición de pm10 por ejemplo y considero que estas muestras son de peor calidad. Siendo el contaminante pm10 el más relevante para la salud, para los siguientes ejercicios sólo tuve en cuenta muestras donde se haya medido estos elementos.
 
-Links:
-      https://www.who.int/es/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health  \
-      https://montevideo.gub.uy/areas-tematicas/ambiente/calidad-del-aire/principales-contaminantes-del-aire
+Links:\
+      *https://www.who.int/es/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+      *https://montevideo.gub.uy/areas-tematicas/ambiente/calidad-del-aire/principales-contaminantes-del-aire
 
 ## Ejercicio 3:
 
